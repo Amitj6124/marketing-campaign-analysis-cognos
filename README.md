@@ -20,11 +20,14 @@ deliver the best ROI and engagement** for marketing decision-making.
 ## 📊 Dashboard Preview
 
 ### Page 1 — Key Performance Indicators
-![KPI Dashboard](dashboard/New_dashboard.pdf)
+![KPI Dashboard](Images/kpi.png)
 
 > KPIs covered: Impressions, Clicks, CTR, CPC, ROI, Acquisition Cost
 
 ### Page 2 — Charts & Graphs
+
+![Charts and Graphs](Images/charts and graphs.png)
+
 - Channel-wise clicks by Campaign Goal
 - Impressions by Campaign Goal (Pie chart)
 - Acquisition Cost vs ROI scatter plot
@@ -32,6 +35,7 @@ deliver the best ROI and engagement** for marketing decision-making.
 
 ### Page 3 — Detail Table
 Campaign-level breakdown with filters for Channel, Audience, and Goal
+![Detail Table](Images/Table.png)
 
 ---
 
