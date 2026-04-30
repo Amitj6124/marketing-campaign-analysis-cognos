@@ -26,7 +26,7 @@ deliver the best ROI and engagement** for marketing decision-making.
 
 ### Page 2 — Charts & Graphs
 
-![Charts and Graphs](Images/charts and graphs.png)
+![Charts and Graphs](Images/charts.png)
 
 - Channel-wise clicks by Campaign Goal
 - Impressions by Campaign Goal (Pie chart)
